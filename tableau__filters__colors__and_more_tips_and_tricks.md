@@ -1,6 +1,6 @@
 
 # Tableau: Filters, colors, and more tips and tricks
-If you've completed our first Tableau exercise, or if you already know how to do basic stuff in Tableau, this tutorial will show you how to do a few more interesting things. You'll switch among visualization types, learn how filters work, expose controls to the user, and test your skills on a couple of challenges.
+If you've completed our [first Tableau exercise](https://github.com/miriamposner/get-started-with-tableau/blob/master/getting-started-with-tableau-public.md), or if you already know how to do basic stuff in Tableau, this tutorial will show you how to do a few more interesting things. You'll switch among visualization types, learn how filters work, expose controls to the user, and test your skills on a couple of challenges.
 
 ## 1 Welcome (or welcome back)!
 [*You can also watch this on video.*](https://share.descript.com/view/KqRXi0Yjjn6)
