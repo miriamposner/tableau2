@@ -17,6 +17,7 @@ Start a new Tableau worksheet (**File** -> **New Worksheet**) and import the wit
 
 ## 3 Correct your data types
 ![Correct your data types](steps-tableau__filters__colors__and_more_tips_and_tricks/step-2.jpeg)
+
 Once you've imported the dataset, click on **Sheet** (the orange button at the bottom left of the Tableau window) to be taken to the visualization workspace.
 
 Let's take a look at the fields available to us in Tableau's **Data** pane. As before, we have both measures and dimensions.
